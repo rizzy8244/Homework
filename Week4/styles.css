@@ -1,0 +1,87 @@
+header > nav {
+    border: 3px solid green;
+    padding: 12px 6px;
+    margin: 9px;
+}
+
+#test > p {
+    
+}
+
+.profilePic {
+    position: relative;
+    margin-top: 100px;
+    height: 200px;
+    width: 200px;
+}
+
+#fullBody {
+    background-color:#BFD7EA;
+    margin-top: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+}
+
+header {
+    position: 0px;
+    width: 100%;
+    background-color:#CD533B ;
+    
+    
+}
+
+footer{
+    position: fixed;
+    width: 100%;
+    background-color: #FB8500;
+    margin: 0px;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    bottom: 0px;
+    left: 0px;
+    height: 30px;
+}
+
+nav ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+nav li {
+    display: inline-block;
+    margin-left: 70px;
+    padding-top: 25px;
+    padding-bottom: 25px;
+
+    position: relative;
+
+    }
+
+ 
+
+nav a {
+    color: #444;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-size: 14px;
+    position:
+    
+}
+
+nav a:hover {
+    color: #000;
+}
+
+.ConMe {
+    position: absolute;
+    border-color: #000;
+    border-width: .25em;
+    border-style: inset;
+    background-color: azure;
+    
+}
+
+.el {
+    margin-top: 100px;
+}
